@@ -50,7 +50,7 @@ Model performance is evaluated using:
 
 ## 📊 Results
 
-- The model achieved an R² score of `99.92`
+- The model achieved an R² score of `0.9903`
 - RMSE was `0.017` indicating reasonable prediction error
 
 ---
